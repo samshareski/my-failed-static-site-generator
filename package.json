@@ -1,0 +1,7 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitlab.com/samshareski/my-blog.git",
+  "private": true
+}
