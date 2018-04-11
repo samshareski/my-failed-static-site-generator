@@ -8,7 +8,7 @@ First thing is I'll need to turn these Markdown files into HTML. I want my posts
 
 ![GitLab shimmery logo](/assets/images/git-lab-logo.gif)
 
-Then I'll need the blog boilerplate templates for navigation.
+Then I'll need some other templates for the homepage and stuff.
 
 And...
 
