@@ -6,7 +6,7 @@ So before going any further, I should probably define the Minimum Viable Product
 
 First thing is I'll need to turn these Markdown files into HTML. I want my posts to be in Markdown because it's pretty easy to compose technical blog posts in this language. I'll just use a GitLab repository as my Content Management System. If you don't know GitLab is, it's like GitHub but better because it has a little fox logo which shimmers as you move your cursor over it.
 
-![GitLab shimmery logo](/assets/images/git-lab-logo.gif)
+![GitLab shimmery logo](/content/assets/images/git-lab-logo.gif)
 
 Then I'll need some other templates for the homepage and stuff.
 
