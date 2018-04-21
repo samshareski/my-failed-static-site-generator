@@ -1,4 +1,6 @@
-# md -> html
+---
+title: md -> html
+---
 
 There are a lot of great static site generators out there but I'd like to get into the weeds instead.
 But not too far in the weeds; there's a great library called [unified](https://github.com/unifiedjs/unified) which is a "interface for processing text using syntax trees".
