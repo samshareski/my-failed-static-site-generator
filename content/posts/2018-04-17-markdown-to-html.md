@@ -1,5 +1,6 @@
 ---
 title: md -> html
+slug: markdown-to-html
 ---
 
 There are a lot of great static site generators out there but I'd like to get into the weeds instead.
