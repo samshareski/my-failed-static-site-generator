@@ -1,6 +1,7 @@
 ---
 title: Defining a Template
 slug: defining-a-template
+date: 2018-04-10
 ---
 
 Now that I got the first blog post out of the way, it's time to come up with a template for this blog. Not the structure of the actual site or anything, just a format for the blog content itself. Like what the posts are gonna be about and stuff. For now, I think I'll just have it be a stream of consciousness style writing as I go through each step in making my blog.

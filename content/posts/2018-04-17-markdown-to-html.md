@@ -1,6 +1,7 @@
 ---
 title: md -> html
 slug: markdown-to-html
+date: 2018-04-17
 ---
 
 There are a lot of great static site generators out there but I'd like to get into the weeds instead.
