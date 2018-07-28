@@ -1,4 +1,4 @@
-# my-failed-static-site-generator
+# My Failed Static Site Generator
 ## What I Wanted to Do
 Build my own static site generator similar to [Gatsby.js](https://www.gatsbyjs.org/).
 I wanted to write my blog posts in Markdown and convert them to HTML plus all the necessary navigation pages.
